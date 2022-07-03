@@ -13,7 +13,8 @@
     echo "<br>";
     echo str_repeat("Sonim",10);
     echo "<br>";
-    echo rtrim("<pre>        I am a programmer </prep>   ");//trims space
+    echo rtrim("<pre>        I am a programmer </prep>   ");
+    //trims space
     echo ltrim("<pre>     I am a programmer </prep>");
 
     // . joins 2 sentences

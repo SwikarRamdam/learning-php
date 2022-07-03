@@ -14,4 +14,3 @@
         echo "You are child";
         break;
     }
-?>
